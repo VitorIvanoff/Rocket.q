@@ -46,9 +46,9 @@ This application was created using the following technologies:
 
 This application was created using the following libraries:
 
-- [EJS](https://styled-components.com/)
-- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
-- [React Hot Toast](https://react-hot-toast.com/)
+- [EJS](https://ejs.co/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Express](https://expressjs.com/pt-br/)
 - [React Switch](https://www.npmjs.com/package/react-switch)
 
 <h1 id="features">🔧 Application Functions:</h1>
@@ -56,12 +56,6 @@ This application was created using the following libraries:
 1. It is a question and answer organizer.
 2. It has a simple and easy to use interface.
 3. It has a fully responsive and refresh-free interface, in addition to being fully updated in real time.
-
-## ⚠️ Functions in development (WIP):
-
-1. Dark Theme/Dark Mode.
-2. Open Rooms List Page.
-3. A mobile version using React Native.
 
 <h1 id="start">🚀 How to Start:</h1>
 
@@ -88,7 +82,7 @@ You can access the project at http://localhost:3000
 
 You can view the project layout at the link below:
 
-- [Web Version](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate)
+- [layout](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q)
 
 Remembering you have to register at [Figma](http://figma.com/) to access this layout.
 
@@ -97,5 +91,6 @@ Remembering you have to register at [Figma](http://figma.com/) to access this la
 This project is covered by the MIT Use License. To see it <a href="https://github.com/ogabrielrodrigues/letmeask/blob/main/LICENSE" target="blank">Click here.</a>
 
 <h1 id="contributors">👷 Contributors</h1>
-<img src="https://github.com/ogabrielrodrigues.png" width="64px"/>
-ogabrielrodrigues (me 😃)
+<img src="https://github.com/VitorIvanoff.png" width="64px"/> Vitor Ivanoff
+<img src="https://github.com/ogabrielrodrigues.png" width="64px"/> Gabriel Rodrigues
+
