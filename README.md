@@ -88,7 +88,7 @@ Remembering you have to register at [Figma](http://figma.com/) to access this la
 
 <h1 id="licence">📝 Licence</h1>
 
-This project is covered by the MIT Use License. To see it <a href="https://github.com/ogabrielrodrigues/letmeask/blob/main/LICENSE" target="blank">Click here.</a>
+This project is covered by the MIT Use License. To see it <a href="https://github.com/VitorIvanoff/Rocket.q/blob/main/LICENSE" target="blank">Click here.</a>
 
 <h1 id="contributors">👷 Contributors</h1>
 <img src="https://github.com/VitorIvanoff.png" width="64px"/> Vitor Ivanoff
