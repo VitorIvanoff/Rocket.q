@@ -61,8 +61,8 @@ This application was created using the following libraries:
 Clone this repository to your machine
 
 ```bash
-$ git clone 
-$ cd letmeask
+$ git clone https://github.com/VitorIvanoff/Rocket.q.git
+$ cd Rocket.q
 ```
 
 ## To install the dependencies
