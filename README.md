@@ -49,7 +49,6 @@ This application was created using the following libraries:
 - [EJS](https://ejs.co/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Express](https://expressjs.com/pt-br/)
-- [React Switch](https://www.npmjs.com/package/react-switch)
 
 <h1 id="features">🔧 Application Functions:</h1>
 
