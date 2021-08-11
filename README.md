@@ -22,7 +22,7 @@
 </p>
 
 <h1 align="center" id="event">
-    <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/a1754f58460d18a6a88b193426153df51e959631/NLW/Rocketq/Illustration.svg" />
+    <img src="https://raw.githubusercontent.com/ogabrielrodrigues/.github/3f9256777db5bd1ecf8ef10490c3cabd5dae53a2/NLW/Rocketq/Illustration.svg" />
 </h1>
 
 <h1 align="center" id="event">
